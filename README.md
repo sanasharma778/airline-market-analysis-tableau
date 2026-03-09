@@ -62,6 +62,11 @@ answers 5 key business questions through interactive visualisations.
 - **Excel** — initial data exploration
 
 ---
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e1a07927-1114-430a-b2d9-5eeb60721ab7" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b83fb74c-db99-452d-8e39-43e6c79ba60f" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/de5c9edc-86cc-4cf9-bd47-3d0ed809533f" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/22aa7c4b-0147-423d-8050-c5ee39adfa2d" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7e8007d3-f6c8-4bde-a759-cef8198decdc" />
 
 ## 👤 Author
 
