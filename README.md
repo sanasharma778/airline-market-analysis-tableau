@@ -68,7 +68,7 @@ answers 5 key business questions through interactive visualisations.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/22aa7c4b-0147-423d-8050-c5ee39adfa2d" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7e8007d3-f6c8-4bde-a759-cef8198decdc" />
 
-## 👤 Author
+## Author
 
 **Sana Sharma** — MSc Data Science & Analytics, Brunel University London  
 [LinkedIn](https://linkedin.com/in/sana-sharma-ab952625a) • [GitHub](https://github.com/sanasharma778)
